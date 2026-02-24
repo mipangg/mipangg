@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"><br><br><br>
 
 ### 📊 GitHub Stats
-![mipangg's Stats](https://github-readme-stats.vercel.app/api?username=mipangg&show_icons=true&title_color=800080&text_color=000000&icon_color=800080)
+![mipangg's GitHub stats](https://github-readme-stats.vercel.app/api?username=mipangg&show_icons=true&theme=transparent&title_color=800080&icon_color=800080&text_color=333333&cache_seconds=1800)
 <br><br>
 
 </div>
